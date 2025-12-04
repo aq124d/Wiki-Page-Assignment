@@ -125,7 +125,7 @@ The contact form currently shows a success message. To make it functional:
 **Created by:**
 - Madheeha Sameen
 - Grishma Bhandari
-- Amina
+- Aamina Quddusiyyah
 - Syed Zain
 - Daania
 
